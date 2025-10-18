@@ -1,0 +1,6 @@
+
+{
+  "name": "AutoML Architect",
+  "description": "An intelligent system to automate the end-to-end machine learning workflow. Upload a dataset, and the AI will automatically identify features, select an algorithm, train a model, and generate insightful visualizations and deployable source code.",
+  "requestFramePermissions": []
+}
